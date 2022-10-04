@@ -1,0 +1,16 @@
+{
+  "name": "coin-app",
+  "version": "1.0.0",
+  "description": "just a simple coin application!!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "staging": "node app.js",
+    "prod": "node index.js"
+  },
+  "author": "sri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
